@@ -2,6 +2,7 @@
 <h1 align="center">Welcome to my personal portfolio website</h1>
 <div align="center">
   [Website](https://alexrogerm.github.io./)
+  <h3><a href="https://alexrogerm.github.io./" target="blank"</a></h3> 
 </div>
 
 
