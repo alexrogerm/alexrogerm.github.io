@@ -14,7 +14,7 @@ html{
 }
 
 p{
-    color:rgb(85,85,85);
+    color:#767676;
 }
 
 /*transition*/
@@ -139,15 +139,21 @@ opacity: 1;
 /*sections*/
 
 section{
-    padding-top: 4vh;
+    padding-top: 6vh;
     height:96vh;
     margin:0% 10rem;
     box-sizing:border-box;
     min-height:fit-content;
 }
 
+
 .section-container{
     display: flex;
+}
+.section-container{
+    margin: 0 auto;
+    max-width: 107rem;
+    padding: 0 4rem;
 }
 
 /*profile*/
@@ -158,9 +164,11 @@ section{
     gap:5rem;
     height:80vh;
 }
+
 .profile-pic{
     filter: grayscale(100%);
 }
+
 .section_pic-container{
     display: flex;
     height: 400px;
@@ -169,11 +177,11 @@ section{
 }
 
 .section_text{
-    align-self:center;
+    align-self: center;
     text-align: center;
 }
 
-.section_text{
+.section_text p{
     font-weight: 600;
 }
 
@@ -255,38 +263,45 @@ section{
 #about{
     position: relative;
 }
-.container {
-    margin: 0 auto;
-    max-width: 107rem;
-    gap:5rem;
-  }
 
 .about-container{
-    margin-bottom:2rem;
-    margin-top:2rem;
-    align-items: center;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
+
+.about-container{
+  display: flex;
+  align-self: center;
+}
+
+.text-container {
+    align-items: center;
+    display:grid;
+    justify-content: center;
+    flex-direction: column;
+    padding:1.5rem;
+}
+
+
 .section_pic-container{
     position:relative;
 }
+
 .about-pic{
     border-radius:2rem;
     height: 25rem;
     width: 25rem;
     filter: grayscale(50%);
 }
-.text-container{
-    padding-right:1.5rem;
-}
 
 .text-container h4 {
     color: #2d2e32;
     font-size: 1.5rem;
+    font-weight: 900;
+    font-style: normal;
     line-height: 1.4;
-    margin-bottom: 2rem;
+    margin-bottom: -9rem;
 }
 
 .details-container{
