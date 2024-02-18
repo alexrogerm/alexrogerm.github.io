@@ -1,5 +1,5 @@
-![Pricing Component With Toggle]([https://github.com/alexrogerm/alexrogerm.github.io/blob/main/assets/Portfolio.png])
-<h1 align="center">Welcome to my personal portfolio</h1>
+![Personal Portfolio website](https://github.com/alexrogerm/alexrogerm.github.io/blob/main/assets/Portfolio.png?raw=true)
+<h1 align="center">Welcome to my personal portfolio website</h1>
 
 
 ## Built with 
