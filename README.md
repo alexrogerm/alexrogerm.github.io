@@ -1,5 +1,8 @@
-![Pricing Component With Toggle](https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor/blob/main/images/project-preview.png?raw=true)
-<h1 align="center">Welcome to my personal portfolio</h1>
+![Personal Portfolio website](https://github.com/alexrogerm/alexrogerm.github.io/blob/main/assets/Portfolio.png?raw=true)
+<h1 align="center">Welcome to my personal portfolio website</h1>
+<div align="center">
+  <h3><a href="https://alexrogerm.github.io./" target="blank">Website<br></a></h3> 
+</div>
 
 
 ## Built with 
