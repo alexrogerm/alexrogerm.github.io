@@ -1,8 +1,7 @@
 ![Personal Portfolio website](https://github.com/alexrogerm/alexrogerm.github.io/blob/main/assets/Portfolio.png?raw=true)
 <h1 align="center">Welcome to my personal portfolio website</h1>
 <div align="center">
-  [Website](https://alexrogerm.github.io./)
-  <h3><a href="https://alexrogerm.github.io./" target="blank"</a></h3> 
+  <h3><a href="https://alexrogerm.github.io./" target="blank">Website<br></a></h3> 
 </div>
 
 
