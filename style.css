@@ -365,6 +365,7 @@ section{
     position: relative;
 }
 
+
 .color-container{
     border-color:rgb(163,163,163);
     background:rgb(250,250,250);
@@ -390,16 +391,31 @@ section{
     border-color:rgb(163,163,163);
 }
 
-.about-containers{
+.about-container{
     gap:2rem;
     margin-bottom:2rem;
     margin-top:2rem;
 }
 
-.about-containers{
+.about-container{
     display:flex;
 
 }
+.new-projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.future-projects{
+    background-color: #f9f9f9;
+    padding: 10rem 0;
+}
+.future-projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
 
 /*contact*/
 
